@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6B213965-252D-42D4-BDBF-C7F912D409BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnvioCorreo/Utilidades/Correo.cs">
+    <Files>
+      <File FileName="EnvioCorreo/Program.cs" Line="12" Column="2" />
+      <File FileName="EnvioCorreo/Utilidades/Correo.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnvioCorreo" expanded="True">
+            <Node name="EnvioCorreo" expanded="True">
+              <Node name="Utilidades" expanded="True">
+                <Node name="Correo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EnvioCorreo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

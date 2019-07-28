@@ -1,0 +1,12 @@
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/EnvioCorreo.deps.json
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/EnvioCorreo.runtimeconfig.json
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/EnvioCorreo.runtimeconfig.dev.json
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/EnvioCorreo.dll
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/EnvioCorreo.pdb
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.csprojAssemblyReference.cache
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.csproj.CoreCompileInputs.cache
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.AssemblyInfoInputs.cache
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.AssemblyInfo.cs
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.dll
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/obj/Debug/netcoreapp2.2/EnvioCorreo.pdb
+/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/bin/Debug/netcoreapp2.2/Attach/cat.xd

@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{6B213965-252D-42D4-BDBF-C7F912D409BF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EnvioCorreo/Utilidades/Correo.cs">
     <Files>
-      <File FileName="EnvioCorreo/Program.cs" Line="12" Column="2" />
-      <File FileName="EnvioCorreo/Utilidades/Correo.cs" Line="11" Column="1" />
+      <File FileName="EnvioCorreo/Program.cs" Line="23" Column="1" />
+      <File FileName="EnvioCorreo/Utilidades/Correo.cs" Line="45" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EnvioCorreo" expanded="True">
             <Node name="EnvioCorreo" expanded="True">
+              <Node name="Attach" expanded="True" />
               <Node name="Utilidades" expanded="True">
                 <Node name="Correo.cs" selected="True" />
               </Node>
@@ -18,11 +19,15 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EnvioCorreo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EnvioCorreo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/Program.cs" relfile="EnvioCorreo/Program.cs" line="11" column="1" />
+      <Breakpoint file="/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/Program.cs" relfile="EnvioCorreo/Program.cs" line="23" column="1" />
+      <Breakpoint file="/Users/willkrieger/Projects/EnvioCorreo/EnvioCorreo/Utilidades/Correo.cs" relfile="EnvioCorreo/Utilidades/Correo.cs" line="45" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

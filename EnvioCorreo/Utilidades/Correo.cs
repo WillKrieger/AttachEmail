@@ -37,9 +37,11 @@ namespace EnvioCorreo.Utilidades
 
                 correo.Attachments.Add(new Attachment(ArchivoAdjunto));
 
+                smtp.UseDefaultCredentials = false;
                 smtp.Credentials = new System.Net.NetworkCredential(CorreoRemitente, Contrasena);
                 smtp.Port = Puerto;
                 smtp.Host = ServidorSmtp;
+                smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtp.EnableSsl = SSL;
 
                 smtp.Send(correo);
@@ -48,7 +50,7 @@ namespace EnvioCorreo.Utilidades
             }
             catch (Exception ex)
             {
-                
+                throw ex;
             }
         }
     }

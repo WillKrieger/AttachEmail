@@ -10,7 +10,7 @@ namespace EnvioCorreo
 
             mail.CorreoRemitente = "guillermo.guerrero@mobiik.com";
             mail.CorreoDestinatario = "smaguilar@brainupco.com";
-            mail.Contrasena = "Jacquelinda29";
+            mail.Contrasena = "********";
             mail.NombreRemitente = "Will Krieger";
             mail.Asunto = "Asunto";
             mail.Mensaje = "Mensaje de prueba";
